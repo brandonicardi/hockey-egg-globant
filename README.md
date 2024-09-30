@@ -1,1 +1,1 @@
-# hockey-egg-globant
+# Migthy Ducks Hockey League
